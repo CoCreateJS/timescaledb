@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-timescaledb/compare/v1.1.0...v1.1.1) (2026-07-19)
+
+
+### Bug Fixes
+
+* set default branch to main ([afe857f](https://github.com/CoCreate-app/CoCreate-timescaledb/commit/afe857f56f7588715c281d2eb721fc30e62698b6))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-timescaledb/compare/v1.0.0...v1.1.0) (2026-07-19)
 
 
