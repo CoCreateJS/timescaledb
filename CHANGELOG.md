@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-timescaledb/compare/v1.0.0...v1.1.0) (2026-07-19)
+
+
+### Features
+
+* Update README.md to reflect TimescaleDB integration and enhance documentation ([76aed8a](https://github.com/CoCreate-app/CoCreate-timescaledb/commit/76aed8a6e58cee3d71e6479ba3aa0059ffe31e1e))
+
 # 1.0.0 (2026-07-18)
 
 
