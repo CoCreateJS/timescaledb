@@ -46,8 +46,7 @@
   "main": "./src/index.js",
   "exports": {
     ".": "./src/index.js",
-    "./dist": "./dist/timescaledb.js",
-    "./installer": "./installer/timescaledb.installer.js"
+    "./dist": "./dist/timescaledb.js"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.9.0"
