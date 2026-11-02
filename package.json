@@ -30,17 +30,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cocreatejs/CoCreate-timescaledb.git"
+    "url": "git+https://github.com/CoCreateJS/timescaledb.git"
   },
   "author": "CoCreate LLC",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/CoCreateJS/CoCreate-timescaledb/issues"
+    "url": "https://github.com/CoCreateJS/timescaledb/issues"
   },
   "homepage": "https://CoCreateJS.com/docs/timescaledb",
   "funding": {
     "type": "GitHub Sponsors ❤",
-    "url": "https://github.com/sponsors/CoCreate-app"
+    "url": "https://github.com/sponsors/CoCreateJS"
   },
   "type": "module",
   "main": "./src/index.js",
