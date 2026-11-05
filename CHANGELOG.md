@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CoCreateJS/timescaledb/compare/v2.0.0...v2.0.1) (2026-11-05)
+
+
+### Bug Fixes
+
+* upgrade CoCreate dependencies to v2 ([3ceb24b](https://github.com/CoCreateJS/timescaledb/commit/3ceb24b9d2947e0e108c42d01251d078531f55ed))
+
 # [2.0.0](https://github.com/CoCreateJS/timescaledb/compare/v1.1.1...v2.0.0) (2026-11-02)
 
 
